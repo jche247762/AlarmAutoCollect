@@ -1,0 +1,2 @@
+# AlarmAutoCollect
+Automatically collect alarms
